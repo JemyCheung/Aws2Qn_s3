@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AWS-SDK-S3</string>
+    <string name="choose_file">选择文件</string>
+</resources>
